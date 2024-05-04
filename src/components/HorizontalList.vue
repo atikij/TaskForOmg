@@ -39,7 +39,7 @@ export default {
   display: flex;
   flex-wrap: nowrap;
   overflow-x: scroll;
-  scrollbar-width: none; /* Скрыть полосу прокрутки */
+  scrollbar-width: none;
   .square {
     flex: 0 0 auto;
   }
