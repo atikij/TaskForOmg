@@ -1,4 +1,5 @@
 # taskforomg
+Тестовое задание сделанное для компании Омг https://omgapp.ru/
 
 ## Project setup
 ```
